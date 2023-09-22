@@ -1,0 +1,25 @@
+.roadmap-number {
+    background-color: #187cff;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.vertical-line {
+    border-left: 2px dotted #187cff;
+    height: 30px;
+    margin-bottom: 12px;
+    margin-left: 11px;
+}
+
+.arrow-down {
+    border: solid #187cff;
+    border-width:0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    margin-left:  8px;
+}
